@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\PROJECTS\ME\SpeechToText1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df97d2ae0fe9524997def34e9e3cd6c6a818102c">
+        <dex dex="F:\PROJECTS\ME\SpeechToText1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_192c0bc11afd20022f1f1fd9539ee1a7acc38d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\PROJECTS\ME\SpeechToText1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="717e87bd64065bd8dc3bba656096e3c7ea30b3eb">
+        <dex dex="F:\PROJECTS\ME\SpeechToText1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ca8a925c2a97bcfc3a571bad68fdc2771a627d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GameBackup\Source\cocos2d-x-3.2\android\adt\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\PROJECTS\ME\SpeechToText1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_6cae96a37ea225ea8db6fd202e71d9b1fdab2cb1\classes.dex" />
+    </item>
+
+</items>
